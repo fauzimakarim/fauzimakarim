@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @fauzimakarim
-- 📫 fauzi.makarim.id@gmail.com
+- 👋 Hi, I’m Fauzi Makarim
+- 📫 Contact via email : fauzi.makarim.id@gmail.com
 
 <!---
 fauzimakarim/fauzimakarim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
